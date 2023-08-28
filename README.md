@@ -2,6 +2,17 @@
 This is a dynamic web based application and I provide different types access for this project. Admin and user and it have different views of project.
 
 
+# Requirements
+
+:white_check_mark: Apache Tomcat v-10
+
+:white_check_mark: MySql Jar Connector for JDBC
+
+:white_check_mark: Bootstrap V-5
+
+:white_check_mark: Aos Animation CDN
+
+
 
 ![Screenshot (61)](https://github.com/Royal-Code-Master/Dynamic-Web-Project-Java/assets/126596692/3aa801a8-b4aa-4c2b-8869-07a95736ae4e)
 
