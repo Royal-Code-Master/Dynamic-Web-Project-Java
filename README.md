@@ -16,6 +16,9 @@ This is a dynamic web based application and I provide different types access for
 
 
 
+......
+
+
 
 ![Screenshot (61)](https://github.com/Royal-Code-Master/Dynamic-Web-Project-Java/assets/126596692/3aa801a8-b4aa-4c2b-8869-07a95736ae4e)
 
