@@ -1,5 +1,6 @@
 # Dynamic-Web-Project-Java-Maven
-This is a dynamic web based application and I provide different types access for this project. Admin and user and it have different views of project.
+This is a dynamic web based application and I provide different types access for this project. Admin and user and it have different views of project. This is the dynamic Quiz app web project and it can able to validate the quiz results also. It can provide certificate based on the quiz score of user. And The admin can able to see the registered and quiz results from the admin portal. 
+
 
 
 # Requirements
@@ -11,6 +12,8 @@ This is a dynamic web based application and I provide different types access for
 :white_check_mark: Bootstrap V-5
 
 :white_check_mark: Aos Animation CDN
+
+
 
 
 
