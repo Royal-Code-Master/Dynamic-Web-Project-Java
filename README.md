@@ -1,2 +1,16 @@
-# Dynamic-Web-Project-Java
-This is a dynamic web based application and I provide different types access for this project. Admin and user and it have different views of project
+# Dynamic-Web-Project-Java-Maven
+This is a dynamic web based application and I provide different types access for this project. Admin and user and it have different views of project.
+
+
+
+![Screenshot (61)](https://github.com/Royal-Code-Master/Dynamic-Web-Project-Java/assets/126596692/3aa801a8-b4aa-4c2b-8869-07a95736ae4e)
+
+![Screenshot (56)](https://github.com/Royal-Code-Master/Dynamic-Web-Project-Java/assets/126596692/c872e152-14f3-43a5-90d6-876999cc3d58)
+
+![Screenshot (60)](https://github.com/Royal-Code-Master/Dynamic-Web-Project-Java/assets/126596692/730d0a57-6433-47c0-8b18-85b961b7361d)
+
+![Screenshot (58)](https://github.com/Royal-Code-Master/Dynamic-Web-Project-Java/assets/126596692/400c6ee9-774e-432c-9c3c-3aa240e788db)
+
+![Screenshot (57)](https://github.com/Royal-Code-Master/Dynamic-Web-Project-Java/assets/126596692/bdb99518-a128-4ab8-9cd0-568c3c202b50)
+
+![Screenshot (59)](https://github.com/Royal-Code-Master/Dynamic-Web-Project-Java/assets/126596692/7b98722f-49d8-488c-b85c-efc84842a222)
